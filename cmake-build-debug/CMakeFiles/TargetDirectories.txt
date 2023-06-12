@@ -1,3 +1,0 @@
-/home/nagy/Desktop/Software Robitics Engineering Udacity Nanodegree/projects/build_my_world/cmake-build-debug/CMakeFiles/hello.dir
-/home/nagy/Desktop/Software Robitics Engineering Udacity Nanodegree/projects/build_my_world/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/nagy/Desktop/Software Robitics Engineering Udacity Nanodegree/projects/build_my_world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
